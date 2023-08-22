@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Engindeniz KOÇAK
 - 👀 I’m interested algorithm,library development and sports
-- 🌱 I’m currently learning PHP,C#,SQL
+- 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on software team
 - 📫 You can reach me engindenizmuhendis@gmail.com
